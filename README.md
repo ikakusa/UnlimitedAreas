@@ -1,5 +1,5 @@
 # Unlimited Areas
-### Extension to remove the limit on the level of enchantment of an item written in c++
+### Extension to remove the limit on the count of ticking area written in c++
 
 # How to use
 
