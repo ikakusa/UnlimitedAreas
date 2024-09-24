@@ -7,10 +7,6 @@ DWORD WINAPI init(LPVOID lpParam) {
 
     MH_Initialize();
     HookManager::initHooks();
-
-    void* limitChunk = (void*)(getBaseAddress() + 0x32aee71);
-    char patch[5] = { 0x41, 0x81, 0x7F, 0x24, 0x0 };
-    patchBytes(patch, limitChunk, 5);
     return 1;
 }
 
