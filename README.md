@@ -1,5 +1,5 @@
-# Force Enchant
-### Extension to remove the limit on the level of enchantment of an item written in c++
+# Unlimited Areas
+### Extension to remove the limit on the count of ticking area written in c++
 
 # How to use
 
@@ -9,5 +9,6 @@
 
 #
 
-![image](https://github.com/user-attachments/assets/259a0e7c-9e31-4b7e-9bec-1f742afbfbda)
-![image](https://github.com/user-attachments/assets/358d0dbb-afe4-4f57-91f8-039e6d04674c)
+![image](https://github.com/user-attachments/assets/fcf9d973-749f-472e-828f-f114069f53bf)
+![image](https://github.com/user-attachments/assets/b62783ce-25e7-4430-8205-383c26a295a6)
+![image](https://github.com/user-attachments/assets/056b3b6d-ef6c-46ab-b75e-cda53d85ab48)
